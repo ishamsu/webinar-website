@@ -20,7 +20,7 @@ let timer = setInterval(function() {
 
     // display
     document.getElementById("timer").innerHTML =
-        "<div style=\"font-size:10px\">next weninar will start within</div><br><div class=\"days\"> \
+        "<div style=\"font-size:10px\">Stay tuned</div><br><div class=\"days\"> \
   <div class=\"numbers\">" + d1 + "</div>days</div> \
 <div class=\"hours\"> \
   <div class=\"numbers\">" + d1 + "</div>hours</div> \
