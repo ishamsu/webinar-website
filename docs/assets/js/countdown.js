@@ -1,5 +1,5 @@
 const year = new Date().getFullYear();
-const twentysevenJuly = new Date(year, 3, 19).setHours(17, 0, 0); // the webinar-date & time (getTime - cuurent time)
+const twentysevenJuly = new Date(year, 3, 20).setHours(17, 0, 0); // the webinar-date & time (getTime - cuurent time)
 console.log(twentysevenJuly);
 
 // countdown
